@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Ras4Cam)(type Legacy)(uri ${KIPRJMOD}/Ras4Cam.lib)(options "")(descr ""))
+  (lib (name Rasp4Cam-rescue)(type Legacy)(uri ${KIPRJMOD}/Rasp4Cam-rescue.lib)(options "")(descr ""))
+)
