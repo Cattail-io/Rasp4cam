@@ -1,6 +1,6 @@
 # Rasp4cam
 Multi Camera Adapter for Raspberry Pi
-!(https://github.com/dodelal/Rasp4cam/blob/master/photos/600x600/RPI_MultiCAM-4.jpg)
+!(../master/photos/600x600/RPI_MultiCAM-4.jpg)
 Simple camera multiplexer for Raspberry Pi allowed to connect up to 4 cameras to single CSI port. Only ONE camera can be enabled at a time.
 Reversed from [site](https://www.arducam.com/multi-camera-adapter-module-raspberry-pi/). 
 Usage:
